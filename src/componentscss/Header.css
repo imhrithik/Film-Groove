@@ -1,0 +1,11 @@
+/* Header of the website */
+
+h1 {
+    margin: 0;
+}
+
+.header {
+    background-color: crimson;
+    padding: 8px;
+    color: white;
+}
